@@ -27,7 +27,7 @@ function slideLeft(){
 function slideRight(){
   reset();
   sliderImages[current + 1].style.display = 'block';
-  curent++;
+  current++;
 }
 
 

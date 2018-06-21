@@ -28,10 +28,11 @@ body, #slider, .wrap, .slide-content {
 .slide3 {
   background-image: url('../img/image1.jpeg')
 }
-
 .slide4 {
-  background-image: url('../img/image2.jpeg')
+  background-image: url('../img/image2.jpeg');
 }
+
+
 
 .slide-content {
   display: flex;
